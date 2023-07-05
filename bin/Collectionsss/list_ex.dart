@@ -14,7 +14,7 @@ List <int> numbers = [10,20,21,23];
 
 
 // 2. List.empty()
-List l1 = List.empty();  //this will create an empty list eg: []  (bcoz growable is false so cannot add values)
+List l1 = List.empty();  //this will create an empty list eg: []  
 // l1.add(10);           //growable is false so cannot add values
 
 List l2 = List.empty(growable: true);
