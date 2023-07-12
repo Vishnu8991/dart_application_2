@@ -27,7 +27,7 @@ class Child extends Father{
     print("Child details");
     print("Name   : $name");
     print("Age   : $age");
-    print("Phone   : $num");
+    print("Rollnum   : $rollnum");
     print("Job   : $job");
     super.details("John", 40, 9658741230, "Business");
 
