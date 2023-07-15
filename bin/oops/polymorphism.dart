@@ -15,7 +15,7 @@ void show(){
   print("Inside the function");
 }
 //no need to use super to call this function
-// since the name is deifferent
+// since the name is different
 }
 
 
